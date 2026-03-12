@@ -151,8 +151,19 @@
               "icon": "lucide-list",
               "title": "Outline of QUESTIONS REGARDING LAB"
             }
+          },
+          {
+            "id": "c8f3aecd94a793ab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
