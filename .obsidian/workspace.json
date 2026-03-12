@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haziq.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "haziq"
+              "title": "README"
             }
           }
         ],
@@ -158,8 +158,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "92f9877ad610512d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -171,7 +185,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,10 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1302f8bf7f0c26b",
+  "active": "104b7d3be4068ac1",
   "lastOpenFiles": [
-    "README.md",
     "haziq.md",
+    "Untitled",
+    "hello this is my second file.md",
+    "README.md",
     "Untitled/Untitled.md",
     "FINANCE TRACKER 2026.md",
     "2026-03-12.md",
@@ -199,7 +214,6 @@
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 3.base",
-    "Untitled",
     "Untitled 2.base",
     "Untitled 1.base",
     "FESENI WORKS.md",
@@ -221,9 +235,7 @@
     "POSTMORTEM P7S/ROYAL DINNER.md",
     "POSTMORTEM P7S/ACCOMMODATION.md",
     "POSTMORTEM P7S/CREW COMMITTEE.md",
-    "POSTMORTEM P7S/FOOD AND BEVERAGES.md",
     "POSTMORTEM P7S",
-    "LAB ANSWERS.md",
     "NETWORK REVISION",
     "Pasted image 20250411101227.png"
   ]
