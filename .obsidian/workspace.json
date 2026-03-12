@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "a5920c4553bebeec",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba50b5adfa38508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1302f8bf7f0c26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "haziq.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "haziq"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbb58224039d9c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "529cd9df4e70fca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104b7d3be4068ac1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d20861241c0a6475",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "51c7ef23f4d4b95f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0177e57ad908bbcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "902f4ad1c5da5bde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85264655cab4fedd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "haziq.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for haziq"
+            }
+          },
+          {
+            "id": "20e141a105c19e08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QUESTIONS REGARDING LAB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from QUESTIONS REGARDING LAB"
+            }
+          },
+          {
+            "id": "4828b3dee2617706",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cff8e4fa9d3d9437",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QUESTIONS REGARDING LAB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of QUESTIONS REGARDING LAB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1302f8bf7f0c26b",
+  "lastOpenFiles": [
+    "haziq.md",
+    "Untitled/Untitled.md",
+    "FINANCE TRACKER 2026.md",
+    "2026-03-12.md",
+    "MOODBOARDS.md",
+    "MEMORY MATCHING GAME PROJECT.md",
+    "Pasted image 20250519083909.png",
+    "Pasted image 20251222155018.png",
+    "Pasted image 20260108155346.png",
+    "SD CODE FOR SM PROJECT.md",
+    "SOFTWARE MODELLING PROJECT.md",
+    "Untitled 4.base",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "FESENI WORKS.md",
+    "MACHINE LEARNING PROJECT - KTM KOMUTER SERVICES.md",
+    "LOGISTIC JELAJAH NUSANTARA/DATABASE FORUM TUTORIAL.md",
+    "HAZIQ'S TO BUY.md",
+    "GIG1013.md",
+    "LOGISTIC JELAJAH NUSANTARA/JELAJAH NUSANTARA PLAN.canvas",
+    "Pasted image 20250925150747.png",
+    "LOGISTIC JELAJAH NUSANTARA",
+    "RAZAK CLUB.md",
+    "FESKUM EMAILS TO COMPANIES/TO DO LIST FESKUM DNT.md",
+    "FESKUM EMAILS TO COMPANIES/1-10.md",
+    "FESKUM EMAILS TO COMPANIES",
+    "POSTMORTEM P7S/MEDICAL.md",
+    "POSTMORTEM P7S/LOGISTICS.md",
+    "POSTMORTEM P7S/TEAM TECHNICAL.md",
+    "POSTMORTEM P7S/Z. PREMIER 7s POSTMORTEM.md",
+    "POSTMORTEM P7S/ROYAL DINNER.md",
+    "POSTMORTEM P7S/ACCOMMODATION.md",
+    "POSTMORTEM P7S/CREW COMMITTEE.md",
+    "POSTMORTEM P7S/FOOD AND BEVERAGES.md",
+    "POSTMORTEM P7S",
+    "LAB ANSWERS.md",
+    "INSTRUCTION SET ARCHI.md",
+    "NETWORK REVISION",
+    "Pasted image 20250411101227.png"
+  ]
+}
